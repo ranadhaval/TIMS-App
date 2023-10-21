@@ -1,0 +1,153 @@
+{
+	"success": true,
+	"message": null,
+	"errorMessage": null,
+	"returnCode": 0,
+	"data": [
+
+
+		
+	{
+		"trainingStatus": "Pending",
+		"evaluationStatus": "Pending",
+		"contentStatus": "Not Applicable",
+		"trainingRecordID": "139",
+		"isSectionDependent": "N",
+		"sectionName": "Default",
+		"sectionOrderNo": "",
+		"sectionId": "59",
+		"materialIndex": "(1)",
+		"trainingDetailId": "45",
+		
+		"material": [{
+			"selectedMaterialReadingTime": "00:00:00",
+			"materialURL": "E://PromountData//TrainingDocument//Promount_Technologies_LLP/SOP/SOP5959/1.00/SOP5959_1.0_Training Copy.pdf",
+			"materialIsMandatory": "Y",
+			"readByEmployee": "Y",
+			"materialIndex": "(1.1)",
+			"isMaterialDependent": "",
+			"materialName": "SOP5959_1.0_Training Copy.pdf",
+			"trainingDetailId": "45",
+			"materialFileName": "SOP5959_1.0_Training Copy.pdf",
+			"materialType": "pdf",
+			"materialId": "86",
+			"materialOrderNo": "",
+			"materialMinimumReadTime": "",
+			"subMaterial": false,
+			"childMaterial": []
+		}]
+
+	},
+	
+	
+	{
+		"trainingStatus": "Pending",
+		"evaluationStatus": "Pending",
+		"contentStatus": "Not Applicable",
+		"trainingRecordID": "139",
+		"isSectionDependent": "N",
+		"sectionName": "Section 1",
+		"sectionOrderNo": "",
+		"sectionId": "62",
+		"materialIndex": "(2)",
+		"trainingDetailId": "45",
+		"material": [{
+			"selectedMaterialReadingTime": "00:00:00",
+			"materialURL": "E://PromountData//TrainingDocument//Promount_Technologies_LLP/SOP/SOP5959/1.00/Attend_Event-Wed_Mar_15_07_31_16_UTC_2023.pdf",
+			"materialIsMandatory": "N",
+			"readByEmployee": "N",
+			"materialIndex": "(2.1)",
+			"isMaterialDependent": "",
+			"materialName": "PDF1",
+			"trainingDetailId": "45",
+			"materialFileName": "Attend_Event-Wed_Mar_15_07_31_16_UTC_2023.pdf",
+			"materialType": "pdf",
+			"materialId": "89",
+			"materialOrderNo": "",
+			"materialMinimumReadTime": "",
+			"subMaterial": false,
+			"childMaterial": []
+		}, {
+			"selectedMaterialReadingTime": "00:00:00",
+			"materialURL": "E://PromountData//TrainingDocument//Promount_Technologies_LLP/SOP/SOP5959/1.00/Employee_Orientation-Wed_Mar_15_07_31_34_UTC_2023.jpg",
+			"materialIsMandatory": "N",
+			"readByEmployee": "N",
+			"materialIndex": "(2.2)",
+			"isMaterialDependent": "",
+			"materialName": "IMG1",
+			"trainingDetailId": "45",
+			"materialFileName": "Employee_Orientation-Wed_Mar_15_07_31_34_UTC_2023.jpg",
+			"materialType": "image",
+			"materialId": "90",
+			"materialOrderNo": "",
+			"materialMinimumReadTime": "",
+			"subMaterial": false,
+			"childMaterial": []
+		}, {
+			"selectedMaterialReadingTime": "00:00:00",
+			"materialURL": "E://PromountData//TrainingDocument//Promount_Technologies_LLP/SOP/SOP5959/1.00/candidate_announcement-Wed_Mar_15_07_55_20_UTC_2023.mp3",
+			"materialIsMandatory": "N",
+			"readByEmployee": "N",
+			"materialIndex": "(2.3)",
+			"isMaterialDependent": "",
+			"materialName": "Audio1",
+			"trainingDetailId": "45",
+			"materialFileName": "candidate_announcement-Wed_Mar_15_07_55_20_UTC_2023.mp3",
+			"materialType": "audio",
+			"materialId": "91",
+			"materialOrderNo": "",
+			"materialMinimumReadTime": "",
+			"subMaterial": false,
+			"childMaterial": []
+		}, {
+			"selectedMaterialReadingTime": "00:00:00",
+			"materialURL": "E://PromountData//TrainingDocument//Promount_Technologies_LLP/SOP/SOP5959/1.00/v-Wed_Mar_15_08_16_38_UTC_2023.mp4",
+			"materialIsMandatory": "N",
+			"readByEmployee": "N",
+			"materialIndex": "(2.4)",
+			"isMaterialDependent": "",
+			"materialName": "Video 1",
+			"trainingDetailId": "45",
+			"materialFileName": "v-Wed_Mar_15_08_16_38_UTC_2023.mp4",
+			"materialType": "video",
+			"materialId": "92",
+			"materialOrderNo": "",
+			"materialMinimumReadTime": "",
+			"subMaterial": false,
+			"childMaterial": []
+		}, {
+			"selectedMaterialReadingTime": "00:00:00",
+			"materialURL": "//Promount_Technologies_LLP//SOP//SOP5959//1.00/html_demo_content/index.html",
+			"materialIsMandatory": "N",
+			"readByEmployee": "N",
+			"materialIndex": "(2.5)",
+			"isMaterialDependent": "",
+			"materialName": "HTML 1",
+			"trainingDetailId": "45",
+			"materialFileName": "html_demo_content\\index.html",
+			"materialType": "html",
+			"materialId": "93",
+			"materialOrderNo": "",
+			"materialMinimumReadTime": "",
+			"subMaterial": false,
+			"childMaterial": []
+		}, {
+			"selectedMaterialReadingTime": "00:00:00",
+			"materialURL": "//Promount_Technologies_LLP//SOP//SOP5959//1.00/VIN-BRD-001-10/index_lms.html",
+			"materialIsMandatory": "N",
+			"readByEmployee": "N",
+			"materialIndex": "(2.6)",
+			"isMaterialDependent": "",
+			"materialName": "SCORM 001",
+			"trainingDetailId": "45",
+			"materialFileName": "VIN-BRD-001-10\\index_lms.html",
+			"materialType": "html",
+			"materialId": "94",
+			"materialOrderNo": "",
+			"materialMinimumReadTime": "",
+			"subMaterial": false,
+			"childMaterial": []
+		}]
+	}],
+	"accessToken": "eaf6343e-4255-4bb5-97ef-51405aff2bdf|122.169.114.249"
+}

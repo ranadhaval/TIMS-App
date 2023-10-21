@@ -1,0 +1,304 @@
+{
+    "result": {
+        
+        "data": [
+            {
+                "id": 1,
+                "venue_id": "VN001",
+                "project_id": 1,
+                "name": "Gold",
+                "color": "FFF000",
+                "type": "Comodity",
+                "no_of_slots": 1,
+                "max_pax": 1000,
+                "status": 1,
+                "created_at": "2023-04-04T09:55:32.000000Z",
+                "updated_at": "2023-04-04T10:08:48.000000Z",
+                "booking_status": "Available",
+                "totalSlot":4,
+                "bookedSlot": 0,
+                "venue_slot": [
+                    {
+                        "venue_id": 1,
+                        "slot_name": "Slot 1",
+                        "id": 1,
+                        "from_time": "05:00",
+                        "to_time": "13:00",
+                        "booking_detail": null,
+                        "selected":false
+                    },
+                    {
+                        "venue_id": 1,
+                        "slot_name": "Slot 2",
+                        "id": 2,
+                        "from_time": "15:30",
+                        "to_time": "23:30",
+                        "booking_detail": null,
+                        "selected":false
+                    },
+                    {
+                        "venue_id": 1,
+                        "slot_name": "Slot 3",
+                        "id": 3,
+                        "from_time": "04:00",
+                        "to_time": "00:00",
+                        "booking_detail": null,
+                        "selected":false
+                    },
+                    {
+                        "venue_id": 1,
+                        "slot_name": "Slot 4",
+                        "id": 4,
+                        "from_time": "04:00",
+                        "to_time": "00:00",
+                        "booking_detail": null,
+                        "selected":false
+                    }
+                    
+                ]
+            },
+            {
+                "id": 1,
+                "venue_id": "VN001",
+                "project_id": 1,
+                "name": "Silver",
+                "color": "FFF000",
+                "type": "Banquet",
+                "no_of_slots": 1,
+                "max_pax": 1000,
+                "status": 1,
+                "created_at": "2023-04-04T09:55:32.000000Z",
+                "updated_at": "2023-04-04T10:08:48.000000Z",
+                "booking_status": "Booked",
+                "totalSlot":4,
+                "bookedSlot": 0,
+                "venue_slot": [
+                    {
+                        "venue_id": 1,
+                        "slot_name": "Slot 1",
+                        "id": 1,
+                        "from_time": "05:00",
+                        "to_time": "13:00",
+                        "booking_detail": "null",
+                        "selected":true
+                    },
+                    {
+                        "venue_id": 1,
+                        "slot_name": "Slot 2",
+                        "id": 2,
+                        "from_time": "15:30",
+                        "to_time": "23:30",
+                        "booking_detail": "null",
+                        "selected":true
+                    },
+                    {
+                        "venue_id": 1,
+                        "slot_name": "Slot 3",
+                        "id": 3,
+                        "from_time": "04:00",
+                        "to_time": "00:00",
+                        "booking_detail": "null",
+                        "selected":true
+                    },
+                    {
+                        "venue_id": 1,
+                        "slot_name": "Slot 4",
+                        "id": 4,
+                        "from_time": "08:00",
+                        "to_time": "00:00",
+                        "booking_detail": "null",
+                        "selected":true
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "venue_id": "VN001",
+                "project_id": 1,
+                "name": "Silver",
+                "color": "FFF000",
+                "type": "Banquet",
+                "no_of_slots": 1,
+                "max_pax": 1000,
+                "status": 1,
+                "created_at": "2023-04-04T09:55:32.000000Z",
+                "updated_at": "2023-04-04T10:08:48.000000Z",
+                "booking_status": "Partial Avaiable",
+                "totalSlot":4,
+                "bookedSlot": 0,
+                "venue_slot": [
+                    {
+                        "venue_id": 1,
+                        "slot_name": "Slot 1",
+                        "id": 1,
+                        "from_time": "55:00",
+                        "to_time": "13:00",
+                        "booking_detail": null,
+                        "selected":false
+                    },
+                    {
+                        "venue_id": 1,
+                        "slot_name": "Slot 2",
+                        "id": 2,
+                        "from_time": "15:30",
+                        "to_time": "23:30",
+                        "booking_detail": null,
+                        "selected":false
+                    },
+                    {
+                        "venue_id": 1,
+                        "slot_name": "Slot 3",
+                        "id": 3,
+                        "from_time": "04:00",
+                        "to_time": "00:00",
+                        "booking_detail": "dfdfg",
+                        "selected":true
+                    },
+                    {
+                        "venue_id": 1,
+                        "slot_name": "Slot 3",
+                        "id": 4,
+                        "from_time": "04:00",
+                        "to_time": "00:00",
+                        "booking_detail": "dfdfg",
+                        "selected":true
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "venue_id": "VN001",
+                "project_id": 1,
+                "name": "Silver",
+                "color": "FFF000",
+                "type": "Banquet",
+                "no_of_slots": 1,
+                "max_pax": 1000,
+                "status": 1,
+                "created_at": "2023-04-04T09:55:32.000000Z",
+                "updated_at": "2023-04-04T10:08:48.000000Z",
+                "booking_status": "Blocked",
+                "totalSlot":4,
+                "bookedSlot": 0,
+                "venue_slot": [
+                    {
+                        "venue_id": 1,
+                        "slot_name": "Slot 1",
+                        "id": 1,
+                        "from_time": "05:00",
+                        "to_time": "13:00",
+                        "booking_detail": "blocked",
+                        "selected":false
+                    },
+                    {
+                        "venue_id": 1,
+                        "slot_name": "Slot 2",
+                        "id": 2,
+                        "from_time": "15:30",
+                        "to_time": "23:30",
+                        "booking_detail": "blocked",
+                        "selected":false
+                    }
+                   
+                ]
+            },
+            {
+                "id": 1,
+                "venue_id": "VN001",
+                "project_id": 1,
+                "name": "Silver",
+                "color": "FFF000",
+                "type": "Banquet",
+                "no_of_slots": 1,
+                "max_pax": 1000,
+                "status": 1,
+                "created_at": "2023-04-04T09:55:32.000000Z",
+                "updated_at": "2023-04-04T10:08:48.000000Z",
+                "booking_status": "Available",
+                "totalSlot":4,
+                "bookedSlot": 0,
+                "venue_slot": [
+                    {
+                        "venue_id": 1,
+                        "slot_name": "Slot 1",
+                        "id": 1,
+                        "from_time": "05:00",
+                        "to_time": "13:00",
+                        "booking_detail": null,
+                        "selected":false
+
+                    }
+                 
+                 
+                ]
+            },
+            {
+                "id": 1,
+                "venue_id": "VN001",
+                "project_id": 1,
+                "name": "Silver",
+                "color": "FFF000",
+                "type": "Banquet",
+                "no_of_slots": 1,
+                "max_pax": 1000,
+                "status": 1,
+                "created_at": "2023-04-04T09:55:32.000000Z",
+                "updated_at": "2023-04-04T10:08:48.000000Z",
+                "booking_status": "Partial Available",
+                "totalSlot":4,
+                "bookedSlot": 2,
+                "venue_slot": [
+                    {
+                        "venue_id": 1,
+                        "slot_name": "Slot 1",
+                        "id": 1,
+                        "from_time": "05:00",
+                        "to_time": "13:00",
+                        "booking_detail": "jhjg",
+                        "selected":false
+
+                    },
+                    {
+                        "venue_id": 1,
+                        "slot_name": "Slot 2",
+                        "id": 2,
+                        "from_time": "15:30",
+                        "to_time": "23:30",
+                        "booking_detail": "jhghgjh",
+                        "selected":false
+
+                    },
+                    {
+                        "venue_id": 1,
+                        "slot_name": "Slot 3",
+                        "id": 3,
+                        "from_time": "05:00",
+                        "to_time": "05:00",
+                        "booking_detail": "jhhgf",
+                        "selected":false
+
+                    },
+                    {
+                        "venue_id": 1,
+                        "slot_name": "Slot 4",
+                        "id": 4,
+                        "from_time": "05:00",
+                        "to_time": "05:00",
+                        "booking_detail": "jhggh",
+                        "selected":false
+                    }
+                ]
+            }
+       
+       
+       
+       
+       
+       
+        ],
+        "total": 6
+    },
+    "status": true,
+    "title": "Venue List Successfully",
+    "message": "Venue List Successfully"
+}

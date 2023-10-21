@@ -1,0 +1,95 @@
+name: tims
+description: A new Flutter TIMS project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  get: ^4.6.5
+  get_storage: ^2.0.3
+  dio: ^5.0.0
+  intl: ^0.18.0
+  flutter_svg: ^2.0.2
+  cached_network_image: ^3.2.3
+  permission_handler: ^10.2.0
+  device_info_plus: ^8.1.0
+  package_info_plus: ^3.0.3
+  percent_indicator: ^4.2.2
+  store_redirect: ^2.0.1
+  flutter_pdfview: ^1.2.5
+  syncfusion_flutter_gauges: ^20.4.52
+  audio_video_progress_bar: ^1.0.0
+  sizer: ^2.0.15
+  flutter_html: ^3.0.0-alpha.6
+  cron: ^0.5.1
+  smooth_page_indicator: ^1.0.1
+  syncfusion_flutter_pdfviewer: ^20.4.54
+  webview_flutter: ^4.0.6
+  audioplayers: ^3.0.1
+  video_player: ^2.6.0
+  http: ^0.13.5
+  connectivity_plus: ^3.0.3
+  flutter_staggered_grid_view: ^0.4.0
+  shimmer: ^2.0.0
+
+  # audio_session: ^0.1.13
+  # just_audio: ^0.9.31
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.1
+
+
+
+flutter:
+  assets:
+    - assets/json/local.json
+    - assets/sampleAsset/filter_search.svg
+    - assets/sampleAsset/calendar_edit.svg
+    - assets/sampleAsset/calendar_tag.svg
+    - assets/images/info-circle.svg
+    - assets/images/Calendar.svg
+    - assets/images/profile-circle.svg
+    - assets/images/tick-circle.svg
+
+
+
+      
+    - assets/json/blog_archive.html
+    - assets/images/
+    - assets/data/
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/roboto-regular.ttf
+        - asset: assets/fonts/roboto-bold.ttf
+          weight: 700
+
+        - asset: assets/fonts/roboto-light.ttf
+        - asset: assets/fonts/roboto-light-italic.ttf
+
+        - asset: assets/fonts/roboto-medium.ttf
+        - asset: assets/fonts/roboto-medium-italic.ttf
+
+        - asset: assets/fonts/roboto-thin.ttf
+        - asset: assets/fonts/roboto-thin-italic.ttf
+
+        - asset: assets/fonts/roboto-italic.ttf
+        - asset: assets/fonts/roboto-bold-italic.ttf
+          weight: 700
+
+    
+  uses-material-design: true
